@@ -5,6 +5,7 @@ sdk: gradio
 sdk_version: 5.49.1
 ---
 ## CAREER_CONVERSATION_AGENT WITH PUSH NOTIFICATIONS: 
+Chat with an AI version about career, skills, and experience—with smart follow-up and phone notifications when visitors reach out or stump the bot.
 Chat bot link: https://huggingface.co/spaces/Harshithhs07/Career_conversations
 
 <img width="877" height="917" alt="Screenshot 2026-05-29 at 9 43 52 pm" src="https://github.com/user-attachments/assets/3415d5a8-a55f-4a7e-947a-4da964cd7f70" />
